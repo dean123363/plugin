@@ -1,4 +1,4 @@
-#!/bin/env python
+#!/bin/env python26
 #-*- coding:utf-8 -*-
 
 import os,sys
